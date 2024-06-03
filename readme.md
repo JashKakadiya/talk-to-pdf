@@ -1,4 +1,18 @@
+# Chat with Multiple PDF
 
+**Chat with Multiple PDF** is a platform that enables users to engage in conversations while simultaneously viewing and discussing multiple PDF documents. This functionality facilitates collaboration by allowing users to share, discuss, and annotate PDF files in real-time within a chat interface. It is particularly useful for teams working on projects that involve reviewing, editing, or analyzing multiple documents concurrently.
+
+## Features
+- **Simultaneous Viewing**: View multiple PDF documents at the same time.
+- **Real-time Collaboration**: Chat and collaborate with team members in real-time.
+- **Annotation**: Annotate PDF documents while discussing them with your team.
+- **User-friendly Interface**: Easy-to-use interface for seamless document management and discussion.
+
+## Tools & Technology
+- **Langchain**: For managing and chaining together various AI and ML components.
+- **Python**: The core programming language used for development.
+- **Llama2**: Utilized for natural language processing tasks.
+- **Streamlit**: Provides the web interface for users to interact with the application.
 
 ## How It Works
 ------------
@@ -34,20 +48,19 @@ OPENAI_API_KEY=your_secrit_api_key
 ```
 
 ## Usage
------
-To use the MultiPDF Chat App, follow these steps:
+Visit the web application at [Chat with Multiple PDF](https://talk-to-pdf-b26l.onrender.com) to start collaborating on your PDF documents.
 
-1. Ensure that you have installed the required dependencies and added the OpenAI API key to the `.env` file.
+## Contributing
+Contributions are welcome! Please fork this repository and submit a pull request for any enhancements or bug fixes.
 
-2. Run the `main.py` file using the Streamlit CLI. Execute the following command:
-   ```
-   streamlit run app.py
-   ```
+## License
+This project is licensed under the MIT License.
 
-3. The application will launch in your default web browser, displaying the user interface.
+## Acknowledgments
+- Special thanks to the developers of Langchain, Llama2, and Streamlit for their amazing tools.
 
-4. Load multiple PDF documents into the app by following the provided instructions.
+---
 
-5. Ask questions in natural language about the loaded PDFs using the chat interface.
+Feel free to reach out with any questions or feedback!
 
 

@@ -48,7 +48,7 @@ OPENAI_API_KEY=your_secrit_api_key
 ```
 
 ## Usage
-Visit the web application at [Chat with Multiple PDF](https://talk-to-pdf-b26l.onrender.com) to start collaborating on your PDF documents.
+Visit the web application at [Chat with Multiple PDF](https://talk-to-pdf-v1-1.streamlit.app) to start collaborating on your PDF documents.
 
 ## Contributing
 Contributions are welcome! Please fork this repository and submit a pull request for any enhancements or bug fixes.
